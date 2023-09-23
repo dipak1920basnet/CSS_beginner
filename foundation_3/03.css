@@ -1,0 +1,21 @@
+.one{
+    display: inline;
+}
+.two, .three{
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    font-size: 18px;
+    border-color:gray;
+    border-color:gray;
+}
+.two{
+    color: white;
+    background-color: black;
+
+}
+.three{
+    color: black;
+    background-color: yellow;
+    width: 210px;
+}
