@@ -1,0 +1,29 @@
+.six {
+    background-color: #FF5733; /* Background color (e.g., orange) */
+    color: #FFFFFF; /* Text color (e.g., white) */
+    border: none; /* Remove the default button border */
+    padding: 10px 20px; /* Add padding for better visual appearance */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    border-radius: 5px; /* Add rounded corners */
+}
+.seven{
+    padding: 10px 20px; /* Add padding for better visual appearance */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    border-radius: 5px;
+}
+.eight{
+    font-size: 26px;
+    font-weight: bolder;
+
+}
+.one > p{
+    font-weight: bolder;
+}
+.five{
+    font-weight: bold;
+}
+div .child {
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 14px;
+  }
