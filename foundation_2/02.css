@@ -1,0 +1,19 @@
+.div{
+    background-color: lightblue;
+}
+#two{
+    background-color: none;
+    color: blue;
+}
+.three{
+    font-size: 36px;
+}
+#four{
+    background-color: green;
+    font-weight: bolder;
+    font-size: 36px;
+}
+.five{
+    font-weight: lighter;
+    font-size: 18px;
+}
