@@ -1,19 +1,20 @@
-.div{
-    background-color: lightblue;
+.one{
+    background-color:purple;
+    margin-bottom: 14px;
+    font-size: 36px;
+    font-weight: lighter;
 }
 #two{
     background-color: none;
     color: blue;
-}
-.three{
+    margin-bottom: 14px;
     font-size: 36px;
+    font-weight: bolder;
 }
 #four{
     background-color: green;
     font-weight: bolder;
     font-size: 36px;
+    margin-bottom: 14px;
 }
-.five{
-    font-weight: lighter;
-    font-size: 18px;
-}
+
