@@ -1,0 +1,10 @@
+.one > p{
+    background-color: yellow;
+    text-align: center;
+    color: red;
+    /* height: 100px; */
+    margin: 24px;
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 0px;
+}
